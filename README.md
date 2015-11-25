@@ -7,9 +7,10 @@
 
 [AWS re:Invent 2014 | (SPOT301) AWS Innovation at Scale](https://www.youtube.com/watch?v=JIQETrFC_SQ)
 
-[ proposed ] 25.11.2015
------------------------
+[ XP Days UK | 8 Things That Make Continuous Delivery Go Nuts (Eduards Sizovs, Latvia) ] (https://www.youtube.com/watch?v=xb6jbdtp9pY&ebc)
 
+[ watched ] 25.11.2015
+-----------------------
 http://rancher.com/building-a-scalable-ci-deployment-with-drone-rancher-and-docker-recorded-august-meetup/
 
 [ August 2015 Online Rancher Meetup | Building a Scalable CI Platform using Rancher, Drone and Docker](https://www.youtube.com/watch?v=86u8pVESbPQ)
