@@ -1,5 +1,8 @@
-[ proposed ] 01.12.2015
+[ proposed ] 02.12.2015
 -----------------------
+[CoreOS Fest 2015 | Building Microservices with CoreOS and etcd ] (https://www.youtube.com/watch?v=Z8bmd70Egbw)
+
+[CoreOS Meetup: etcd and Kubernetes] (https://www.youtube.com/watch?v=-9IX_c9fyGc)
 
 [DockerConf 2015 | Immutable Infrastructure with Docker and EC2 by Michael Bryzek (Gilt)]( https://www.youtube.com/watch?v=GaHzdqFithc)
 
@@ -46,3 +49,5 @@ Sources of inspiration
 
 [Oreilly:kubercon  "Kubernetes Launch"](
 https://www.youtube.com/user/OreillyMedia/videos)
+
+[CoreOS Fest 2015 ] (https://www.youtube.com/watch?v=BZiVTJhlOV8&list=PLlh6TqkU8kg8Ld0Zu1aRWATiqBkxseZ9g)
