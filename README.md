@@ -1,7 +1,5 @@
-[ proposed ] 02.12.2015
+[ proposed ] 09.12.2015
 -----------------------
-[CoreOS Fest 2015 | Building Microservices with CoreOS and etcd ] (https://www.youtube.com/watch?v=Z8bmd70Egbw)
-
 [CoreOS Meetup: etcd and Kubernetes] (https://www.youtube.com/watch?v=-9IX_c9fyGc)
 
 [DockerConf 2015 | Immutable Infrastructure with Docker and EC2 by Michael Bryzek (Gilt)]( https://www.youtube.com/watch?v=GaHzdqFithc)
@@ -11,6 +9,12 @@
 [AWS re:Invent 2014 | (SPOT301) AWS Innovation at Scale](https://www.youtube.com/watch?v=JIQETrFC_SQ)
 
 [ XP Days UK | 8 Things That Make Continuous Delivery Go Nuts (Eduards Sizovs, Latvia) ] (https://www.youtube.com/watch?v=xb6jbdtp9pY&ebc)
+
+[ watched ] 02.12.2015
+
+[ CoreOS Fest 2015 | Building Microservices with CoreOS and etcd ] (https://www.youtube.com/watch?v=Z8bmd70Egbw)
+
+[ CoreOS Fest 2015 | systemd at the Core of the OS ] (https://www.youtube.com/watch?v=VIPonFvPlAs)
 
 [ watched ] 25.11.2015
 -----------------------
